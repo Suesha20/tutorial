@@ -71,7 +71,7 @@ function newdoc1() {
 <br>
 <h2>EDITOR'S PICK</h2>
 <br>
-<div class="morph">
+<div class="morph"
 <img src="new4.jpg" width="650px" height="230px"/>
 <img src="new3.jpg" width="650px" height="230px"/>
 </div>
