@@ -71,7 +71,7 @@ function newdoc1() {
 <br>
 <h2>EDITOR'S PICK</h2>
 <br>
-<div class="morph"
+<div class="morph">
 <img src="new4.jpg" width="650px" height="230px"/>
 <img src="new3.jpg" width="650px" height="230px"/>
 </div>
@@ -85,7 +85,7 @@ title that they feel represents the pinnacle of gaming achievement that year. Ma
 <h2>ACTION</h2>
 <br>
 <div class="focus pic">
-<img src="pic.jpg" width="650px" height="230px"/>
+<img src="new5.jpg" width="650px" height="230px"/>
 <img src="new6.jpg" width="650px" height="230px"/>
 </div>
 <br>
