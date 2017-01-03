@@ -4,7 +4,7 @@
 $X=mysql_connect("localhost","root","");
 if($X)
 {
-echo "functioon23";
+echo "function";
 }
 else
 {
